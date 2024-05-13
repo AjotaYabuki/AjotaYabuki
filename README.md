@@ -11,6 +11,6 @@
 
 *A quick summary about me would be that I'm 21 years old and I'm currently studying computer engineering, I currently have a strong interest in the Front End area, but I confess that I have a great passion in the back end area, mainly in AIs and related segments, I intend to delve deeper into them in the future.*
 
-
+https://buda.neocities.org/
 
 
