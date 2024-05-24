@@ -5,11 +5,11 @@
 
 **Sobre mim**
 
-*Um resumo rápido sobre mim seria que tenho 21 anos e atualmente estou cursando engenharia da computação, atualmente tenho forte interesse na área de Front End porém confesso que tenho uma grande paixão área de back end principalmente em IAs e seguimentos próximos, pretendo me aprofundar nelas no futuro.*
+*Um resumo rápido sobre mim seria que tenho 21 anos e atualmente estou cursando engenharia da computação, atualmente tenho forte interesse na área de Front End porém confesso que tenho uma grande paixão área de Back End principalmente em IAs e seguimentos próximos, pretendo me aprofundar nelas no futuro.*
 
 **About me**
 
-*A quick summary about me would be that I'm 21 years old and I'm currently studying computer engineering, I currently have a strong interest in the Front End area, but I confess that I have a great passion in the back end area, mainly in AIs and related segments, I intend to delve deeper into them in the future.*
+*A quick summary about me would be that I'm 21 years old and I'm currently studying computer engineering, I currently have a strong interest in the Front End area, but I confess that I have a great passion in the Back End area, mainly in AIs and related segments, I intend to delve deeper into them in the future.*
 
 https://buda.neocities.org/
 
