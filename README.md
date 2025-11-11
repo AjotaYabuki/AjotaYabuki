@@ -5,7 +5,7 @@
 
 **Sobre mim**
 
-*Um resumo rápido sobre mim seria que tenho 21 anos e atualmente estou cursando engenharia da computação, atualmente tenho forte interesse na área de Front End porém confesso que tenho uma grande paixão área de Back End principalmente em IAs e seguimentos próximos, pretendo me aprofundar nelas no futuro.*
+*Um resumo rápido sobre mim seria que tenho 22 anos e atualmente estou cursando engenharia da computação, atualmente tenho forte interesse na área de Front End porém confesso que tenho uma grande paixão área de Back End principalmente em IAs e seguimentos próximos, pretendo me aprofundar nelas no futuro.*
 
 **About me**
 
