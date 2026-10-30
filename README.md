@@ -1,4 +1,4 @@
-# **Olá, Ajota aqui!**
+# **Olá, Alex aqui!**
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%8A2BE2.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alex-amorim-6309131b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-%8A2BE2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AjotaYabuki)
